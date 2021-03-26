@@ -10,6 +10,7 @@ body{
 
 #cabecera{
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: rgb(16, 16, 177);
   box box-shadow: 0px 2px 20px 0px rgba(0,0,0,0,5);
   color: white;
@@ -17,12 +18,17 @@ body{
   margin: 0;
   padding: 0.5cm;
 =======
+=======
+>>>>>>> fd420dfe5014aace257848f3d3b70e389ba69b17
     background: #33a;
     box box-shadow: 0px 2px 20px 0px rgba(0,0,0,0,5);
     color: white;
     font-weight:bold;
     margin: 0;
     padding: 0.5cm;
+<<<<<<< HEAD
+>>>>>>> fd420dfe5014aace257848f3d3b70e389ba69b17
+=======
 >>>>>>> fd420dfe5014aace257848f3d3b70e389ba69b17
 }
 
